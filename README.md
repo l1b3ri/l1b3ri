@@ -15,8 +15,3 @@ I'm a cyberspace security student who is passionate about Writing code, penetrat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l1b3ri&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1b3ri&theme=buefy&layout=compact" />
 </a>
-
-
-
-## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=l1b3ri&column=8"/>
