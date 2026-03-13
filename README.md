@@ -5,7 +5,7 @@
 I'm a cyberspace security student who is passionate about Writing code, penetration testing, automation.
 
 - 🔭 I am currently studying at Guilin University of Electronic Science and Technology.
-- 📫 How to reach me: [l1b3ri](https://l1b3ri.github.io) [mail](244004036@qq.com)
+- 📫 How to reach me: [l1b3ri](https://l1b3ri.github.io) 
 
 
 ## 🌠[Coding Time]()
