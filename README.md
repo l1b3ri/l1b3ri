@@ -13,8 +13,6 @@ I'm a **Security Researcher** passionate about writing code, penetration testing
 - 🛡️ **CISSP** (Certified)
 - 📫 How to reach me: [l1b3ri](https://l1b3ri.github.io)
 
-[![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-0072C6?logo=isc2)](https://www.isc2.org/Certifications/CISSP)
-
 ---
 
 ## 🌠 GitHub Stats
