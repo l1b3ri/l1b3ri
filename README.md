@@ -4,14 +4,18 @@
   <img src="https://img.shields.io/badge/Code-Python%20%7C%20Go-blue" />
 </p>
 
-
 ### Hi there 👋
 
-I'm a **Security Researcher** who is passionate about Writing code, penetration testing, automation, and offensive security.
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I am currently studying at Guilin University of Electronic Science and Technology.
+I'm a **Security Researcher** passionate about writing code, penetration testing, automation, and offensive security.
+
+- 🛡️ **CISSP** (Certified)
 - 📫 How to reach me: [l1b3ri](https://l1b3ri.github.io)
-- 🛡️ **CISSP** Certified
+
+[![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-0072C6?logo=isc2)](https://www.isc2.org/Certifications/CISSP)
+
+---
 
 ## 🌠 GitHub Stats
 
